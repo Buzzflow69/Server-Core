@@ -1,0 +1,25 @@
+#
+# Thanks for purchasing MeteoriteCore!
+#
+
+Auth:
+  HWID: "Contact Buzzflow69#1234 for license"
+
+Settings:
+  # configure your Server
+  name: "Hub 01" # id and name are the name but name can have spaces.
+  network-name: "Example Network" # Used in ban messages
+  id: 'Hub-01'
+
+
+Punishment-Settings:
+  bungee: true # if its global or not.
+  # Default punish reasons.
+  ban: "N/A"
+  tempban: "N/A"
+  blacklist: "N/A"
+  kick: "N/A"
+  ipban: "N/A"
+
+
+

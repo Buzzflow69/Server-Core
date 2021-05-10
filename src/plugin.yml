@@ -1,0 +1,6 @@
+name: MeteoriteCore
+main: us.buzzflow69.core.core
+version: 1.0
+commands:
+  vanish:
+    aliases: v

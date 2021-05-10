@@ -1,0 +1,24 @@
+
+# make sure only one is enabled
+
+MySQL:
+  enabled: false
+  host: "localhost"
+  port: "3306"
+  database: ""
+  user: ""
+  password: "APa55w0rd"
+
+MongoDB:
+  enabled: false
+  host: "localhost"
+  port: "27017"
+  database: "Core"
+  user: "admin"
+  password: "APa55w0rd"
+
+Redis:
+  host: "localhost"
+  port: "6379"
+  user: "Admin"
+  password: "APa55w0rd"
